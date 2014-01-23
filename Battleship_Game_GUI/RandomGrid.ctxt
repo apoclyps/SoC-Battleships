@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RandomGrid()
+comment0.text=\r\n\ RandomGrid\r\n\ default\ Constructor\ for\ objects\r\n
+comment1.params=ObjectShip
+comment1.target=int[]\ randomShipLocation(Fleet)
+comment1.text=\r\n\ randomShipLocation\r\n\ generates\ 2\ random\ numbers\ between\ 0\ and\ 9\r\n\ stores\ both\ numbers\ in\ a\ int\ array\ of\ 2\r\n\ returns\ array\r\n\ @param\ \ Fleet\ ObjectShip\r\n\ @return\ int\ return\r\n
+comment2.params=
+comment2.target=int\ getRandomShipAxis()
+comment2.text=\r\n\ getRandomShipAxis\r\n\ generates\ a\ new\ random\ axis\ as\ a\ interger\ between\ 1\ and\ 2\r\n\ returns\ random\ axis\r\n\ @param\ \ none\r\n\ @return\ int\ returnAxis\r\n
+comment3.params=
+comment3.target=java.lang.String\ getRandomShipAxisString()
+comment3.text=\r\n\ getRandomShipAxisString\r\n\ generates\ a\ new\ random\ axis\ as\ a\ interger\ between\ 1\ and\ 2\r\n\ converts\ axis\ to\ string\ as\ Vertical\ or\ Horizontal\r\n\ returns\ string\ axis\r\n\ @param\ none\r\n\ @return\ int\ Axis\r\n
+numComments=4

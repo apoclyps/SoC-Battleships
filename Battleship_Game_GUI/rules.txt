@@ -1,0 +1,32 @@
+How to play Battleship
+
+Object of the game
+
+ Sink all nine of your opponent's ships before running out of shots.
+
+Option of play used in this version
+
+  Traditionally, Battleship is played using the "Classic" method, with one shot per turn (or round) and calling your
+  shot such as A-6. However, to speed things up instead of calling shots, you can click on the location of where you want 
+  to fire and the grid will update based on your mouse input.
+
+
+Prepare for battle
+
+  Their are nine ships that have to be place on the grid. For your convenience, this will be done automatically by
+  the computer however it can sometimes take between a few seconds to up to 1 minute. However if it fails to load
+  after 1 minute, try restarting the game.
+
+
+you are playing with the following ships:
+
+
+  1* - 4 shots - Battleship
+  2* - 3 shots - Destroyer
+  3* - 3 shots - Cruiser
+  3* - 2 shots - Submarine
+
+Winning the game
+
+  If you're the first player to sink your opponent's entire fleet of nine ships, you win the game! 
+ 

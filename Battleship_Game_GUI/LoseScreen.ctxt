@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LoseScreen()
+comment0.text=\r\n\ LoseScreen\r\n\ default\ Constructor\ for\ objects\r\n\ new\ instances\ of\ LoseScreen\ will\ set\ the\ frame\ settings\ and\ then\ \r\n\ run\ the\ build\ panel\ method\ to\ update\ the\ frame\ with\ content.\r\n
+comment1.params=
+comment1.target=void\ buildPanel()
+comment1.text=\r\n\ buildPanel\r\n\ Creates\ a\ GridLayout\ and\ sets\ the\ North,\ South,\ East,West\ and\ Center\ Panels.\r\n\ Header\ Panel\ creates\ a\ new\ Image\ and\ add\ this\ image\ to\ header\ Panel.\r\n\ West\ panel\ creates\ a\ padding\ label\ to\ ensure\ that\ the\ layout\ remains\ consistent\ and\ adds\ to\ panel.\r\n\ Center\ Panel\ creates\ 4\ buttons,\ adds\ action\ listeners\ and\ is\ added\ to\ the\ panel\r\n\ East\ Panel\ creates\ a\ padding\ label\ and\ adds\ to\ panel.\r\n\ FooterPanel\ creates\ a\ new\ image\ and\ adds\ this\ to\ the\ footer\ panel.\r\n\ All\ backgrounds\ for\ panels\ are\ set\ to\ black\ and\ content\ is\ added\ to\ pane.\r\n\ Title\ is\ set\ and\ frame\ is\ set\ to\ exit\ on\ close\r\n\ @param\ \ none\r\n\ @return\ none\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3

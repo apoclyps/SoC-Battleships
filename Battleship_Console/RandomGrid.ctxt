@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RandomGrid()
+comment1.params=ObjectShip
+comment1.target=int[]\ randomShipLocation(Fleet)
+comment2.params=ObjectShip
+comment2.target=void\ randomShipLocation2(Fleet)
+comment3.params=
+comment3.target=int\ getRandomShipAxis()
+comment4.params=
+comment4.target=java.lang.String\ getRandomShipAxisString()
+numComments=5
